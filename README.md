@@ -1,16 +1,26 @@
-## Hi there 👋
+## Hi, I'm Eslam 👋
 
-<!--
-**eslamarafa-dev/eslamarafa-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Engineer focused on building real-world internal tools, dashboards, and high-impact UI systems.
 
-Here are some ideas to get you started:
+### What I Do
+- Business dashboards & admin panels
+- Internal tools for operations & analytics
+- Corporate and product-focused websites
+- Clean, scalable frontend architectures
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech Stack
+- HTML5
+- CSS3 (Modern layouts & animations)
+- JavaScript (Vanilla, clean logic)
+
+### Engineering Mindset
+- Real business use-cases
+- Maintainable code
+- UI/UX clarity
+- Performance-focused frontend
+
+### Currently Building
+- Internal business dashboards
+- Portfolio-driven projects for remote opportunities
+
+📍 Open to remote roles and global collaboration
