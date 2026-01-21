@@ -1,63 +1,112 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=FF0000&center=true&vCenter=true&width=900&lines=🔥+Eslam+Arafa.Dev;🚀+Frontend+Engineer;🌍+Global+UI+Architect;💡+Performance+Driven+Code" alt="Typing SVG" />
-</h1>
+╔════════════════════════════════════════════════════════════════════╗
+║                                                                    ║
+║   ████████╗███████╗██████╗ ███╗   ███╗██╗███╗   ██╗ █████╗ ██╗     ║
+║   ╚══██╔══╝██╔════╝██╔══██╗████╗ ████║██║████╗  ██║██╔══██╗██║     ║
+║      ██║   █████╗  ██████╔╝██╔████╔██║██║██╔██╗ ██║███████║██║     ║
+║      ██║   ██╔══╝  ██╔══██╗██║╚██╔╝██║██║██║╚██╗██║██╔══██║██║     ║
+║      ██║   ███████╗██║  ██║██║ ╚═╝ ██║██║██║ ╚████║██║  ██║███████╗║
+║      ╚═╝   ╚══════╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚══════╝║
+║                                                                    ║
+║                    FRONTEND ENGINEER                                ║
+║              Building What Powers Business                          ║
+║                                                                    ║
+╚════════════════════════════════════════════════════════════════════╝
 
-<p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="250" />
-</p>
 
----
+<br><div align="center">
+Visit My Website
+LinkedIn
+Email
 
-## 👋 Hi, I'm **Eslam Arafa**
-Frontend Engineer building **world-class dashboards, internal tools, and high-impact UI systems**.  
-My mission: **Global excellence + performance-driven code**.
+</div><br>
+"I don't just write code—I craft digital experiences that drive real business outcomes."
 
----
+<br>
+👨‍💻 About Me
+I'm Eslam Arafa.Dev, a Frontend Engineer obsessed with building high-impact internal tools, business dashboards, and scalable UI systems that power operations and drive decisions.
 
-### 🚀 What I Do
-- ⚡ Business dashboards & admin panels  
-- 📊 Internal tools for operations & analytics  
-- 🌐 Corporate and product-focused websites  
-- 🏗 Clean, scalable frontend architectures  
+While others chase trends, I focus on what actually moves the needle:
 
----
+Converting complex data into actionable insights through intuitive dashboards
+Building internal tools that streamline operations and boost productivity
+Architecting frontend solutions that scale with business growth
+If it's invisible to end-users but critical to operations—that's where I thrive.
 
-### 🛠 Tech Arsenal
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,git,github,vscode,tailwind,bootstrap" />
-</p>
+<br>
+🎯 What I Build
+<div align="center">
+📊 Business Dashboards	⚙️ Internal Tools	🏢 Corporate Platforms
+Data visualization, KPI tracking, real-time analytics	Operations automation, admin panels, workflow management	Company websites, product landing pages, documentation
+</div></div><br>
 
----
 
-### 🧠 Engineering Mindset
-- 🔍 Real business use-cases  
-- 🛡 Maintainable code  
-- 🎨 UI/UX clarity  
-- ⚡ Performance-focused frontend  
 
----
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│   ██████╗ ██████╗ ██████╗ ██████╗ ██████╗ ██████╗          │
+│   ██╔══██╗██╔══██╗██╔══██╗██╔══██╗██╔══██╗██╔══██╗         │
+│   ██████╔╝██████╔╝██████╔╝██████╔╝██████╔╝██████╔╝         │
+│   ██╔═══╝ ██╔══██╗██╔══██╗██╔══██╗██╔══██╗██╔══██╗         │
+│   ██║     ██║  ██║██║  ██║██║  ██║██║  ██║██║  ██║         │
+│   ╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝         │
+│                                                             │
+│                  HTML5 • CSS3 • JavaScript                  │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
 
-### 📈 GitHub Power
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EslamArafaDev&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EslamArafaDev&theme=radical" />
-</p>
 
----
 
-### 🏆 Global Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=EslamArafaDev&theme=darkhub&no-frame=true&margin-w=15" />
-</p>
+Expertise Areas
+Frontend Architecture	UI/UX Engineering	Performance
+Component-based design	Pixel-perfect implementation	Lighthouse optimization
+State management	Responsive layouts	Bundle size reduction
+Clean code patterns	Micro-interactions & animations	Core Web Vitals mastery
+<br>
 
----
 
-### 🌍 Open to Remote Roles & Global Collaboration
-<p align="center">
-  <img src="https://img.shields.io/badge/Remote-Ready-brightgreen?style=for-the-badge&logo=airplane" />
-  <img src="https://img.shields.io/badge/Global-Collaboration-blue?style=for-the-badge&logo=earth" />
-</p>
+╔═══════════════════════════════════════════════════════════════╗
+║                     MY PHILOSOPHY                             ║
+╠═══════════════════════════════════════════════════════════════╣
+║                                                               ║
+║  🎯 Real Business Value                                       ║
+║     → Every line of code serves a purpose                     ║
+║                                                               ║
+║  📐 Maintainable Architecture                                 ║
+║     → Code that future-me will thank present-me for           ║
+║                                                               ║
+║  🎨 UI/UX Clarity                                             ║
+║     → If users can't figure it out, it doesn't exist         ║
+║                                                               ║
+║  ⚡ Performance-First                                         ║
+║     → Fast isn't a feature—it's the foundation                ║
+║                                                               ║
+╚═══════════════════════════════════════════════════════════════╝
 
----
 
-<h3 align="center">✨ Crafted with passion, code & vision ✨</h3>
+🚀 Currently Building
+<div align="next">
+Project	Description	Status
+Internal Dashboards	Business intelligence interfaces for enterprise clients	🔄 Active
+Portfolio Showcase	Curated projects demonstrating scalable frontend architecture	🔄 Active
+Remote Collaboration	Actively seeking global teams and remote opportunities	🔍 Open
+</div><br>
+
+
+
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│   🌐  Available for remote work and global collaboration    │
+│   🤝  Open to exciting projects and team opportunities      │
+│   📧  Reach out: hello@eslam-arafa.dev                       │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+
+</div><br>
+
+
+
+<div align="center">
+Thanks for stopping by! ⭐
+Every great product starts with a problem worth solving.
+
+<br><img src="https://capsule-render.vercel.app/api?type=waving&color=1a1a2e&height=80&section=footer&text=Eslam+Arafa.Dev&fontSize=24&fontColor=00d4ff&animation=fadeIn&fontAlignY=36" /></div>
