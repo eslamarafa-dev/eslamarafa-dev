@@ -1,175 +1,75 @@
-<div align="center">
+# <p align="center">ESLAM ARAFA.DEV</p>
 
-<!-- ═══════════════ HERO SECTION ═══════════════ -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4f46e5,50:7c3aed,100:0ea5e9&height=300&section=header&text=Eslam%20Arafa.Dev&fontSize=70&fontAlignY=35&animation=twinkling&fontColor=ffffff" width="100%" />
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=wave&color=0:667eea,50:764abc,100:6B8DD6&height=300&section=header&text=ESLAM%20ARAFA&fontSize=80&fontColor=fff&animation=twinkling&desc=.DEV&descSize=28&descAlignY=55&descAlign=50" width="100%"/>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=8B5CF6&center=true&vCenter=true&width=500&lines=Frontend+Engineer;UI+Systems+Architect;Business-Driven+Developer;Building+Interfaces+That+Scale" alt="Typing Config" />
+</p>
 
-<br/>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=eslamarafa&style=for-the-badge&color=6366f1" alt="visitor count" />
+  <img src="https://img.shields.io/github/followers/eslamarafa?style=for-the-badge&color=7c3aed&label=Followers" alt="followers" />
+</p>
 
-<!-- ═══════════════ ROLE & PHILOSOPHY ═══════════════ -->
+---
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=26&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&repeat=false&width=800&height=50&lines=⚡+INTERFACE+ENGINEER+|+SYSTEM+ARCHITECT+⚡" />
+### ⚡ THE INTERFACE ENGINEER
 
-<br/>
+I do not design screens. I engineer interface systems that operate with intent. My work focuses on state, architecture, and measurable outcomes. I build UI foundations that teams can trust, extend, and scale. Engineering interfaces that drive business performance is the work.
 
-> **“UI is Architecture — Systems over Screens — Performance > Aesthetics”**
+---
 
-<br/>
+### 🏗️ WHAT I BUILD
 
-<!-- ═══════════════ SOCIAL BADGES ═══════════════ -->
+| System Category | Core Focus | Deliverable |
+| :--- | :--- | :--- |
+| **Business Dashboards** | Decision-focused visibility | High-density data clarity |
+| **Internal Tools** | Operational systems | Process acceleration |
+| **Product Interfaces** | Corporate-grade UX | Scalable interaction models |
+| **UI Architecture** | System foundations | Design tokens & Logic layers |
 
-[![Profile Views](https://komarev.com/ghpvc/?username=eslamarafa&style=for-the-badge&color=blueviolet&labelColor=0d0d0d)](https://github.com/eslamarafa)
-[![Followers](https://img.shields.io/github/followers/eslamarafa?style=for-the-badge&color=A855F7&labelColor=0d0d0d)](https://github.com/eslamarafa?tab=followers)
-[![System Active](https://img.shields.io/badge/⚡_SYSTEM-ACTIVE-blueviolet?style=for-the-badge&labelColor=0d0d0d&color=A855F7)]()
-[![Mode Engineering](https://img.shields.io/badge/🔮_MODE-ENGINEERING-purple?style=for-the-badge&labelColor=0d0d0d&color=7C3AED)]()
+---
 
-<br/>
+### 🧪 TECH DNA
+> "Minimal stack. Maximum control."
 
-<!-- ═══════════════ SYSTEM MODULES ═══════════════ -->
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" />
+</p>
 
-### ◈ SYSTEM MODULES ◈
+---
 
-| Module | Description |
-|--------|------------|
-| 📊 Dashboards | Real-time Decision Interfaces |
-| 🔧 Internal Tools | Workflow & Operational Systems |
-| 🏢 Product UI | Scalable Enterprise Interfaces |
-| 🏗 Architecture | System Design & Foundations |
+### 🧠 SYSTEM DESIGN MINDSET
+*   **System Over Screens:** UI is treated as a living system, not a collection of isolated components.
+*   **Logic First:** State flow and data integrity before styling. Predictability before polish.
+*   **Contract-Driven:** Every component has a strict responsibility and a clear interface contract.
+*   **Architecture First:** Technical foundations before visual noise. Scalability before flair.
 
-<br/>
+---
 
-<!-- ═══════════════ TECH STACK ═══════════════ -->
+### ⚖️ ENGINEERING PHILOSOPHY
+- **Business-First Thinking:** Interfaces serve commercial outcomes, not egos.
+- **Scalable Architecture:** Clean, modular code over fragile shortcuts.
+- **Performance as a Feature:** Latency is a bug; speed is non-negotiable.
+- **Maintainability:** Long-term system stability is the baseline requirement.
 
-### ◈ TECH DNA ◈
+---
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,node,express,mongodb,git&theme=dark&perline=5" width="300"/>
+### 📊 LIVE GITHUB SIGNALS
 
-<br/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=eslamarafa&show_icons=true&theme=transparent&hide_border=true&title_color=8b5cf6&icon_color=8b5cf6&text_color=cbd5f5" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eslamarafa&theme=transparent&hide_border=true&ring=8b5cf6&fire=8b5cf6&currStreakLabel=cbd5f5&sideLabels=cbd5f5&dates=94a3b8" width="48%" />
+</p>
 
-⚡ Minimal stack. Maximum control.
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=eslamarafa&theme=react-dark&hide_border=true&line=8b5cf6&color=cbd5f5" width="100%" />
+</p>
 
-<br/>
+---
 
-<!-- ═══════════════ SKILL BARS ═══════════════ -->
-
-<table>
-<tr>
-<td align="center" width="33%">
-<sub><b>HTML5</b></sub>
-<br/>
-<img src="https://progress-bar.dev/97/?width=150&color=A855F7&suffix=%"/>
-</td>
-<td align="center" width="33%">
-<sub><b>CSS3</b></sub>
-<br/>
-<img src="https://progress-bar.dev/95/?width=150&color=7C3AED&suffix=%"/>
-</td>
-<td align="center" width="33%">
-<sub><b>JavaScript</b></sub>
-<br/>
-<img src="https://progress-bar.dev/93/?width=150&color=8B5CF6&suffix=%"/>
-</td>
-</tr>
-</table>
-
-<br/>
-
-<!-- ═══════════════ ENGINEERING PHILOSOPHY ═══════════════ -->
-
-### ◈ ENGINEERING PHILOSOPHY ◈
-
-| # | Principle | Description |
-|---|----------|------------|
-| 01 | BUSINESS-FIRST | Outcomes drive all decisions, ROI over features |
-| 02 | CLEAN ARCHITECTURE | Scalable foundations, maintainable code |
-| 03 | PERFORMANCE | Built-in from day one, speed is a feature |
-| 04 | LONGEVITY | Future-proof systems, code that lasts |
-
-<br/>
-
-<!-- ═══════════════ MINI DASHBOARD PROJECTS ═══════════════ -->
-
-### ◈ MINI DASHBOARD PROJECTS ◈
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="25%">
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" width="60"/>
-  <br/><br/>
-  <a href="https://github.com/eslamarafa/project1"><b>Project One</b></a>
-  <br/>
-  <sub>React UI Library, Scalable Components</sub>
-</td>
-<td align="center" width="25%">
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" width="60"/>
-  <br/><br/>
-  <a href="https://github.com/eslamarafa/project2"><b>Project Two</b></a>
-  <br/>
-  <sub>Node.js API, High Performance Backend</sub>
-</td>
-<td align="center" width="25%">
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/mongodb/mongodb.png" width="60"/>
-  <br/><br/>
-  <a href="https://github.com/eslamarafa/project3"><b>Project Three</b></a>
-  <br/>
-  <sub>MongoDB Driven Data Platform</sub>
-</td>
-<td align="center" width="25%">
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" width="60"/>
-  <br/><br/>
-  <a href="https://github.com/eslamarafa/project4"><b>Project Four</b></a>
-  <br/>
-  <sub>Vanilla JS Dashboard & Analytics</sub>
-</td>
-</tr>
-</table>
-
-</div>
-
-<br/>
-
-<!-- ═══════════════ GITHUB STATS ═══════════════ -->
-
-### ◈ LIVE SYSTEM METRICS ◈
-
-<table>
-<tr>
-<td width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=eslamarafa&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=A855F7&icon_color=7C3AED&text_color=ffffff&ring_color=A855F7&include_all_commits=true&count_private=true" width="100%"/>
-</td>
-<td width="50%">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=eslamarafa&hide_border=true&background=0d0d0d&ring=A855F7&fire=7C3AED&currStreakLabel=ffffff&sideLabels=A855F7&currStreakNum=ffffff&sideNums=7C3AED&dates=666666" width="100%"/>
-</td>
-</tr>
-</table>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=eslamarafa&custom_title=📈 Contribution Graph&hide_border=true&bg_color=0d0d0d&color=A855F7&line=7C3AED&point=ffffff&area=true&area_color=2d1b4e" width="100%"/>
-
-<br/>
-
-### ◈ TOP LANGUAGES ◈
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eslamarafa&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=A855F7&text_color=ffffff" width="40%"/>
-
-<br/>
-
-<!-- ═══════════════ CONNECT ═══════════════ -->
-
-### ◈ CONNECT ◈
-
-[![GitHub](https://img.shields.io/badge/GitHub-A855F7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eslamarafa)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/eslamarafa)
-[![Email](https://img.shields.io/badge/Email-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eslam@arafa.dev)
-[![Portfolio](https://img.shields.io/badge/Portfolio-9333EA?style=for-the-badge&logo=google-chrome&logoColor=white)](https://eslamarafa.dev)
-
-<br/>
-
-<!-- ═══════════════ FOOTER ═══════════════ -->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764abc,100:6B8DD6&height=150&section=footer&animation=twinkling"/>
-
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:4f46e5,100:0ea5e9&height=100&section=footer&text=This%20is%20not%20a%20profile.%20It’s%20an%20interface.&fontSize=28&animation=fadeIn" width="100%" />
+</p>
