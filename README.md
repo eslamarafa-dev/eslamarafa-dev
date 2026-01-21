@@ -1,112 +1,73 @@
-╔════════════════════════════════════════════════════════════════════╗
-║                                                                    ║
-║   ████████╗███████╗██████╗ ███╗   ███╗██╗███╗   ██╗ █████╗ ██╗     ║
-║   ╚══██╔══╝██╔════╝██╔══██╗████╗ ████║██║████╗  ██║██╔══██╗██║     ║
-║      ██║   █████╗  ██████╔╝██╔████╔██║██║██╔██╗ ██║███████║██║     ║
-║      ██║   ██╔══╝  ██╔══██╗██║╚██╔╝██║██║██║╚██╗██║██╔══██║██║     ║
-║      ██║   ███████╗██║  ██║██║ ╚═╝ ██║██║██║ ╚████║██║  ██║███████╗║
-║      ╚═╝   ╚══════╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚══════╝║
-║                                                                    ║
-║                    FRONTEND ENGINEER                                ║
-║              Building What Powers Business                          ║
-║                                                                    ║
-╚════════════════════════════════════════════════════════════════════╝
+# <p align="center">ESLAM ARAFA.DEV</p>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4f46e5,50:7c3aed,100:0ea5e9&height=280&section=header&text=Eslam%20Arafa.Dev&fontSize=70&fontAlignY=35&animation=twinkling&fontColor=ffffff" width="100%" />
+</p>
 
-<br><div align="center">
-Visit My Website
-LinkedIn
-Email
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=8B5CF6&center=true&vCenter=true&width=500&lines=Frontend+Engineer;UI+Systems+Architect;Business-Driven+Developer;Building+Interfaces+That+Scale" alt="Typing Config" />
+</p>
 
-</div><br>
-"I don't just write code—I craft digital experiences that drive real business outcomes."
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=eslamarafa&style=for-the-badge&color=6366f1" alt="visitor count" />
+  <img src="https://img.shields.io/github/followers/eslamarafa?style=for-the-badge&color=7c3aed&label=Followers" alt="followers" />
+</p>
 
-<br>
-👨‍💻 About Me
-I'm Eslam Arafa.Dev, a Frontend Engineer obsessed with building high-impact internal tools, business dashboards, and scalable UI systems that power operations and drive decisions.
+---
 
-While others chase trends, I focus on what actually moves the needle:
+### ⚡ THE INTERFACE ENGINEER
 
-Converting complex data into actionable insights through intuitive dashboards
-Building internal tools that streamline operations and boost productivity
-Architecting frontend solutions that scale with business growth
-If it's invisible to end-users but critical to operations—that's where I thrive.
+I engineer interface systems that operate with intent. The work is about state, architecture, and measurable outcomes — not decoration. I build UI foundations that teams can trust, extend, and scale. Designing screens is easy. Engineering interfaces that drive business performance is the work.
 
-<br>
-🎯 What I Build
-<div align="center">
-📊 Business Dashboards	⚙️ Internal Tools	🏢 Corporate Platforms
-Data visualization, KPI tracking, real-time analytics	Operations automation, admin panels, workflow management	Company websites, product landing pages, documentation
-</div></div><br>
+---
 
+### 🏗️ WHAT I BUILD
+| System Type | Core Focus | Deliverable |
+| :--- | :--- | :--- |
+| **Business Dashboards** | Decision-focused visibility | High-density data clarity |
+| **Internal Tools** | Operational systems | Process acceleration |
+| **Product Interfaces** | Corporate-grade UX | Scalable interaction models |
+| **UI Architecture** | System foundations | Design tokens & Logic layers |
 
+---
 
-┌─────────────────────────────────────────────────────────────┐
-│                                                             │
-│   ██████╗ ██████╗ ██████╗ ██████╗ ██████╗ ██████╗          │
-│   ██╔══██╗██╔══██╗██╔══██╗██╔══██╗██╔══██╗██╔══██╗         │
-│   ██████╔╝██████╔╝██████╔╝██████╔╝██████╔╝██████╔╝         │
-│   ██╔═══╝ ██╔══██╗██╔══██╗██╔══██╗██╔══██╗██╔══██╗         │
-│   ██║     ██║  ██║██║  ██║██║  ██║██║  ██║██║  ██║         │
-│   ╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝         │
-│                                                             │
-│                  HTML5 • CSS3 • JavaScript                  │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
+### 🧪 TECH DNA
+> "Minimal stack. Maximum control."
 
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" />
+</p>
 
+---
 
-Expertise Areas
-Frontend Architecture	UI/UX Engineering	Performance
-Component-based design	Pixel-perfect implementation	Lighthouse optimization
-State management	Responsive layouts	Bundle size reduction
-Clean code patterns	Micro-interactions & animations	Core Web Vitals mastery
-<br>
+### 🧠 SYSTEM DESIGN MINDSET
+*   **System Over Screens:** UI is treated as a system, not isolated components.
+*   **Logic First:** State flow before styling. Predictability before polish.
+*   **Contract-Driven:** Every component has a responsibility and a clear contract.
+*   **Architecture First:** Foundations before flair. Architecture before visual noise.
 
+---
 
-╔═══════════════════════════════════════════════════════════════╗
-║                     MY PHILOSOPHY                             ║
-╠═══════════════════════════════════════════════════════════════╣
-║                                                               ║
-║  🎯 Real Business Value                                       ║
-║     → Every line of code serves a purpose                     ║
-║                                                               ║
-║  📐 Maintainable Architecture                                 ║
-║     → Code that future-me will thank present-me for           ║
-║                                                               ║
-║  🎨 UI/UX Clarity                                             ║
-║     → If users can't figure it out, it doesn't exist         ║
-║                                                               ║
-║  ⚡ Performance-First                                         ║
-║     → Fast isn't a feature—it's the foundation                ║
-║                                                               ║
-╚═══════════════════════════════════════════════════════════════╝
+### ⚖️ ENGINEERING PHILOSOPHY
+- **Business-First Thinking:** Interfaces serve outcomes, not egos.
+- **Scalable Architecture:** Clean code over fragile shortcuts.
+- **Performance as a Feature:** Speed is non-negotiable.
+- **Maintainability:** Long-term stability is the baseline.
 
+---
 
-🚀 Currently Building
-<div align="next">
-Project	Description	Status
-Internal Dashboards	Business intelligence interfaces for enterprise clients	🔄 Active
-Portfolio Showcase	Curated projects demonstrating scalable frontend architecture	🔄 Active
-Remote Collaboration	Actively seeking global teams and remote opportunities	🔍 Open
-</div><br>
+### 📊 LIVE SIGNALS
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=eslamarafa&show_icons=true&theme=transparent&hide_border=true&title_color=8b5cf6&icon_color=8b5cf6&text_color=cbd5f5" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eslamarafa&theme=transparent&hide_border=true&ring=8b5cf6&fire=8b5cf6&currStreakLabel=cbd5f5&sideLabels=cbd5f5&dates=94a3b8" width="48%" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=eslamarafa&theme=react-dark&hide_border=true&line=8b5cf6&color=cbd5f5" width="100%" />
+</p>
 
+---
 
-┌─────────────────────────────────────────────────────────────┐
-│                                                             │
-│   🌐  Available for remote work and global collaboration    │
-│   🤝  Open to exciting projects and team opportunities      │
-│   📧  Reach out: hello@eslam-arafa.dev                       │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
-
-</div><br>
-
-
-
-<div align="center">
-Thanks for stopping by! ⭐
-Every great product starts with a problem worth solving.
-
-<br><img src="https://capsule-render.vercel.app/api?type=waving&color=1a1a2e&height=80&section=footer&text=Eslam+Arafa.Dev&fontSize=24&fontColor=00d4ff&animation=fadeIn&fontAlignY=36" /></div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:4f46e5,100:0ea5e9&height=80&section=footer&text=This%20is%20not%20a%20profile.%20It’s%20an%20interface.&fontSize=24&animation=fadeIn" width="100%" />
+</p>
