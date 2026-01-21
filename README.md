@@ -1,41 +1,68 @@
-<!-- HEADER - Animated Banner -->
-<p align="center">
-  <img width="800" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=8B5CF6&center=true&vCenter=true&width=800&lines=Eslam+Arafa.Dev;Frontend+Engineer;UI+Architect;Business+Driven+Developer" alt="Typing SVG">
-</p>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&color=00F7FF&center=true&vCenter=true&width=500&lines=Eslam+Arafa.Dev;Frontend+Engineer;UI+Systems+Architect;Open+to+Global+Collaboration" />
+</h1>
 
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=EslamArafa.EslamArafa" alt="Visitor Badge" />
-  <img src="https://img.shields.io/badge/Frontend-Engineer-8B5CF6?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/UI%2FUX-Business--Focused-black?style=for-the-badge" />
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="200" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
-Hi, I'm **Eslam Arafa** – Frontend Engineer building dashboards, internal tools & scalable UI systems.  
-Driven by real business needs and clean code principles.
+## 👋 Hi, I'm Eslam Arafa  
+**Frontend Engineer** focused on building real-world internal tools, dashboards, and high-impact UI systems.
 
 ---
 
-## 📊 GitHub Stats
+### 🚀 What I Do
+- Business dashboards & admin panels  
+- Internal tools for operations & analytics  
+- Corporate and product-focused websites  
+- Clean, scalable frontend architectures  
+
+---
+
+### 🛠 Tech Stack
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=EslamArafa&show_icons=true&theme=dracula" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EslamArafa&layout=compact&theme=dracula" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,git,github,vscode" />
 </p>
 
 ---
 
-## 🛠️ Tech Stack
+### 🧠 Engineering Mindset
+- Real business use-cases  
+- Maintainable code  
+- UI/UX clarity  
+- Performance-focused frontend  
+
+---
+
+### 🔨 Currently Building
+- Internal business dashboards  
+- Portfolio-driven projects for remote opportunities  
+
+---
+
+### 🌍 Open to Remote Roles & Global Collaboration
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Remote-Ready-brightgreen?style=for-the-badge&logo=airplane" />
+  <img src="https://img.shields.io/badge/Global-Collaboration-blue?style=for-the-badge&logo=earth" />
 </p>
 
 ---
 
-## 🌍 Let's Connect
+### 📊 GitHub Stats
 <p align="center">
-  <a href="https://linkedin.com/in/EslamArafa"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:ideamakers405@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=EslamArafaDev&show_icons=true&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EslamArafaDev&theme=radical" />
 </p>
+
+---
+
+### 🎨 Fun Touch
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=radical" alt="Jokes Card" />
+</p>
+
+---
+
+<h3 align="center">✨ Crafted with passion & code ✨</h3>
