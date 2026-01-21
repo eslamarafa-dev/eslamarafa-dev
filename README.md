@@ -8,12 +8,6 @@
 
 <br/>
 
-<!-- ═══════════════════════ ANIMATED BANNER ═══════════════════════ -->
-
-<img src="https://raw.githubusercontent.com/BrunnerLivworking/brunnerlivio/master/images/marquee.svg" width="100%"/>
-
-<br/><br/>
-
 <!-- ═══════════════════════ ANIMATED TYPING - MAIN ═══════════════════════ -->
 
 <a href="https://git.io/typing-svg">
@@ -27,12 +21,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2000&pause=500&color=7C3AED&center=true&vCenter=true&width=900&height=50&lines=%E2%96%B9+Frontend+Engineer+%E2%97%83;%E2%96%B9+UI+Systems+Architect+%E2%97%83;%E2%96%B9+Business-Driven+Developer+%E2%97%83;%E2%96%B9+Building+Interfaces+That+Scale+%E2%97%83" />
 
 <br/><br/>
-
-<!-- ═══════════════════════ ANIMATED WAVE ═══════════════════════ -->
-
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%"/>
-
-<br/>
 
 <!-- ═══════════════════════ PREMIUM BADGES ROW ═══════════════════════ -->
 
@@ -65,12 +53,6 @@
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=32&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&repeat=false&width=700&height=70&lines=%E2%97%88+SYSTEM+IDENTITY+%E2%97%88" />
-
-<br/><br/>
-
-<!-- ═══════════════════════ ANIMATED CODING GIF ═══════════════════════ -->
-
-<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="500"/>
 
 <br/><br/>
 
@@ -327,41 +309,41 @@ export default ESLAM_ARAFA;
 ║   ┌──────────────────────────────────────────────────────────────────────────────────────┐     ║
 ║   │  ⚡ PRINCIPLE 02: STATE ARCHITECTURE FIRST                                           │     ║
 ║   │  ════════════════════════════════════════════════════════════════════════════════    │     ║
-║   │  ├── Data flow is designed before any visual is considered.                         │     ║
-║   │  ├── Predictability is non-negotiable.                                              │     ║
-║   │  └── State determines everything. Style follows.                                    │     ║
+║   │  ├── Data flow is designed before any visual is considered.                          │     ║
+║   │  ├── Predictability is non-negotiable.                                               │     ║
+║   │  └── State determines everything. Style follows.                                     │     ║
 ║   └──────────────────────────────────────────────────────────────────────────────────────┘     ║
 ║                                                                                                ║
 ║   ┌──────────────────────────────────────────────────────────────────────────────────────┐     ║
 ║   │  🎯 PRINCIPLE 03: COMPONENT CONTRACTS                                                │     ║
 ║   │  ════════════════════════════════════════════════════════════════════════════════    │     ║
-║   │  ├── Clear inputs. Clear outputs. Zero ambiguity.                                   │     ║
-║   │  ├── Single responsibility per component.                                           │     ║
-║   │  └── Interfaces define behavior, not implementation.                                │     ║
+║   │  ├── Clear inputs. Clear outputs. Zero ambiguity.                                    │     ║
+║   │  ├── Single responsibility per component.                                            │     ║
+║   │  └── Interfaces define behavior, not implementation.                                 │     ║
 ║   └──────────────────────────────────────────────────────────────────────────────────────┘     ║
 ║                                                                                                ║
 ║   ┌──────────────────────────────────────────────────────────────────────────────────────┐     ║
-║   │  🏗️ PRINCIPLE 04: ARCHITECTURE > AESTHETICS                                         │     ║
+║   │  🏗️ PRINCIPLE 04: ARCHITECTURE > AESTHETICS                                          │     ║
 ║   │  ════════════════════════════════════════════════════════════════════════════════    │     ║
-║   │  ├── Foundations before features. Structure before style.                           │     ║
-║   │  ├── A beautiful interface on weak architecture is technical debt.                  │     ║
-║   │  └── Build to last, not to impress temporarily.                                     │     ║
+║   │  ├── Foundations before features. Structure before style.                            │     ║
+║   │  ├── A beautiful interface on weak architecture is technical debt.                   │     ║
+║   │  └── Build to last, not to impress temporarily.                                      │     ║
 ║   └──────────────────────────────────────────────────────────────────────────────────────┘     ║
 ║                                                                                                ║
 ║   ┌──────────────────────────────────────────────────────────────────────────────────────┐     ║
 ║   │  🚀 PRINCIPLE 05: PERFORMANCE IS ENGINEERED                                          │     ║
 ║   │  ════════════════════════════════════════════════════════════════════════════════    │     ║
-║   │  ├── Not optimized later. Built from day one.                                       │     ║
-║   │  ├── Every millisecond matters. Every byte counts.                                  │     ║
-║   │  └── Speed is a feature, not an afterthought.                                       │     ║
+║   │  ├── Not optimized later. Built from day one.                                        │     ║
+║   │  ├── Every millisecond matters. Every byte counts.                                   │     ║
+║   │  └── Speed is a feature, not an afterthought.                                        │     ║
 ║   └──────────────────────────────────────────────────────────────────────────────────────┘     ║
 ║                                                                                                ║
 ║   ┌──────────────────────────────────────────────────────────────────────────────────────┐     ║
 ║   │  💎 PRINCIPLE 06: SCALABILITY BY DESIGN                                              │     ║
 ║   │  ════════════════════════════════════════════════════════════════════════════════    │     ║
-║   │  ├── Systems grow. Interfaces must grow with them.                                  │     ║
-║   │  ├── Design for 10x scale from the start.                                           │     ║
-║   │  └── Flexibility is built-in, not patched on.                                       │     ║
+║   │  ├── Systems grow. Interfaces must grow with them.                                   │     ║
+║   │  ├── Design for 10x scale from the start.                                            │     ║
+║   │  └── Flexibility is built-in, not patched on.                                        │     ║
 ║   └──────────────────────────────────────────────────────────────────────────────────────┘     ║
 ║                                                                                                ║
 ╚════════════════════════════════════════════════════════════════════════════════════════════════╝
@@ -480,7 +462,7 @@ export default ESLAM_ARAFA;
 <!-- ═══════════════════════ GITHUB STATS CARDS ═══════════════════════ -->
 
 <a href="https://github.com/eslamarafa">
-<img src="https://github-readme-stats.vercel.app/api?username=eslamarafa&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=A855F7&icon_color=7C3AED&text_color=ffffff&ring_color=A855F7&include_all_commits=true&count_private=true&custom_title=%F0%9F%93%8A+System+Statistics" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=eslamarafa&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=A855F7&icon_color=7C3AED&text_color=ffffff&ring_color=A855F7&include_all_commits=true&count_private=true&custom_title=📊+System+Statistics" width="49%"/>
 </a>
 <a href="https://github.com/eslamarafa">
 <img src="https://streak-stats.demolab.com?user=eslamarafa&theme=midnight-purple&hide_border=true&background=0D0D0D&ring=A855F7&fire=7C3AED&currStreakLabel=FFFFFF" width="49%"/>
@@ -491,7 +473,7 @@ export default ESLAM_ARAFA;
 <!-- ═══════════════════════ ACTIVITY GRAPH ═══════════════════════ -->
 
 <a href="https://github.com/eslamarafa">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=eslamarafa&custom_title=%F0%9F%93%88+CONTRIBUTION+ACTIVITY&hide_border=true&bg_color=0d0d0d&color=A855F7&line=7C3AED&point=ffffff&area=true&area_color=2d1b4e" width="98%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=eslamarafa&custom_title=📈+CONTRIBUTION+ACTIVITY&hide_border=true&bg_color=0d0d0d&color=A855F7&line=7C3AED&point=ffffff&area=true&area_color=2d1b4e" width="98%"/>
 </a>
 
 <br/><br/>
@@ -507,7 +489,7 @@ export default ESLAM_ARAFA;
 <!-- ═══════════════════════ ADDITIONAL STATS ═══════════════════════ -->
 
 <a href="https://github.com/eslamarafa">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eslamarafa&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=A855F7&text_color=ffffff&custom_title=%F0%9F%A7%AC+Languages+DNA" width="40%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eslamarafa&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=A855F7&text_color=ffffff&custom_title=🧬+Languages+DNA" width="40%"/>
 </a>
 
 <br/>
