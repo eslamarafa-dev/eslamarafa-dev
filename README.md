@@ -500,7 +500,7 @@ export default DEV_SYSTEM;
 <a href="https://github.com/eslamarafa">
 <img src="https://github-readme-stats.vercel.app/api?username=eslamarafa&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=A855F7&icon_color=7C3AED&text_color=ffffff&ring_color=A855F7&include_all_commits=true&count_private=true&custom_title=📊+System+Statistics" width="49%"/>
 </a>
-<a href="https://github.com/eslamarafa">
+<a href="https://github.com/eslamarafa](https://github.com/eslamarafa-dev">
 <img src="https://streak-stats.demolab.com?user=eslamarafa&theme=midnight-purple&hide_border=true&background=0D0D0D&ring=A855F7&fire=7C3AED&currStreakLabel=FFFFFF" width="49%"/>
 </a>
 
@@ -508,7 +508,7 @@ export default DEV_SYSTEM;
 
 <!-- ═══════════════════════ ACTIVITY GRAPH ═══════════════════════ -->
 
-<a href="https://github.com/eslamarafa">
+<a href="https://github.com/eslamarafa-dev">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=eslamarafa&custom_title=📈+CONTRIBUTION+ACTIVITY&hide_border=true&bg_color=0d0d0d&color=A855F7&line=7C3AED&point=ffffff&area=true&area_color=2d1b4e" width="98%"/>
 </a>
 
@@ -516,7 +516,7 @@ export default DEV_SYSTEM;
 
 <!-- ═══════════════════════ TROPHIES ═══════════════════════ -->
 
-<a href="https://github.com/eslamarafa">
+<a href="https://github.com/eslamarafa-dev">
 <img src="https://github-profile-trophy.vercel.app/?username=eslamarafa&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" width="100%"/>
 </a>
 
@@ -524,7 +524,7 @@ export default DEV_SYSTEM;
 
 <!-- ═══════════════════════ ADDITIONAL STATS ═══════════════════════ -->
 
-<a href="https://github.com/eslamarafa">
+<a href="https://github.com/eslamarafa-dev">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eslamarafa&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=A855F7&text_color=ffffff&custom_title=🧬+Languages+DNA" width="40%"/>
 </a>
 
